@@ -1,6 +1,6 @@
 ---
 date: '2023-08-01'
-title: 'ZotJournal'
+title: 'JournalApp'
 github: ''
 external: ''
 tech:

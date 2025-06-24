@@ -3,7 +3,7 @@ date: '2024-12-21'
 title: 'Code Coach'
 company: 'theCoderSchool'
 location: 'Irvine, CA'
-range: 'December 2023 - March 2024'
+range: 'December 2024 - March 2025'
 url: 'https://www.thecoderschool.com/locations/irvine/'
 ---
 

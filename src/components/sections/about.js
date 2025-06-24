@@ -125,7 +125,20 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = [
+    'Python',
+    'C++',
+    'JavaScript',
+    'FastAPI',
+    'React',
+    'Next.js',
+    'Transformers',
+    'spaCy',
+    'OpenAI API',
+    'PostgreSQL',
+    'Docker',
+    'OAuth',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,30 +148,31 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Roshan and I’m currently pursuing a B.S. in Computer Science at{' '}
+              <a href="https://ics.uci.edu/">UC Irvine</a>, where I explore how machines interpret
+              language, reason about information, and power the systems we use every day. My
+              interests lie at the intersection of artificial intelligence, natural language
+              processing, and full-stack development — where algorithms meet user experience.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              I’ve built platforms that parse resumes with LLMs, predict career paths with machine
+              learning, and visualize data in real time. At the{' '}
+              <a href="https://ics.uci.edu/~kobsa/papers/2016-PerCom-TIPPERS-Kobsa.pdf">
+                TIPPERS Research Lab
+              </a>
+              , I contributed to privacy-preserving IoT infrastructures, becoming the only
+              underclassman on the team. I’ve also taught coding to students of all ages during my
+              time at <a href="http://dreamsforschools.org/">Dreams For Schools</a> and{' '}
+              <a href="https://www.thecoderschool.com/locations/irvine/">theCoderSchool</a>— a
+              practice that constantly sharpens my ability to break down complexity into clarity.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              I love solving hard problems with elegant systems, collaborating with ambitious teams,
+              and building tools that make technology more human. Whether it’s crafting scalable
+              backend architectures or understanding how people interact with data, I’m here to keep
+              learning and keep shipping.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
@@ -173,7 +187,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/me.png"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
