@@ -179,6 +179,7 @@ const Jobs = () => {
               location
               range
               url
+              order
             }
             html
           }
@@ -187,7 +188,11 @@ const Jobs = () => {
     }
   `);
 
-  const jobsData = data.jobs.edges;
+  const jobsData = data.jobs.edges.slice().sort((a, b) => {
+    const orderA = a.node.frontmatter.order || 999;
+    const orderB = b.node.frontmatter.order || 999;
+    return orderA - orderB;
+  });
 
   const [activeTabId, setActiveTabId] = useState(0);
   const [tabFocus, setTabFocus] = useState(null);
@@ -244,7 +249,7 @@ const Jobs = () => {
 
   return (
     <StyledJobsSection id="jobs" ref={revealContainer}>
-      <h2 className="numbered-heading">Where I’ve Worked</h2>
+      <h2 className="numbered-heading">Where I've Worked</h2>
 
       <div className="inner">
         <StyledTabList role="tablist" aria-label="Job tabs" onKeyDown={e => onKeyDown(e)}>

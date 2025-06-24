@@ -146,6 +146,7 @@ const Education = () => {
               location
               range
               url
+              order
             }
             html
           }
@@ -154,7 +155,11 @@ const Education = () => {
     }
   `);
 
-  const educationData = data.education.edges;
+  const educationData = data.education.edges.slice().sort((a, b) => {
+    const orderA = a.node.frontmatter.order || 999;
+    const orderB = b.node.frontmatter.order || 999;
+    return orderA - orderB;
+  });
   const [activeTabId, setActiveTabId] = useState(0);
   const tabs = useRef([]);
   const revealContainer = useRef(null);
