@@ -46,8 +46,12 @@ This site is a curated showcase of my work, research, and interests. Whether you
 - **Infrastructure:** Docker, PostgreSQL, OAuth, CI/CD
 - **Tools:** Git, GitHub, VS Code, Linux
 
-## �� Connect
+## 🛠️ Connect
 
 If you're looking for someone who enjoys solving challenging problems, communicates clearly, and builds with care, I'd love to connect. Reach out via [LinkedIn](https://www.linkedin.com/in/roshan-raj-9a06a9226/) or [email](mailto:raj.roshan2005@gmail.com).
 
 Thanks for visiting!
+
+## Credits
+
+This portfolio is based on the open-source template by [Brittany Chiang](https://brittanychiang.com). Huge thanks to her for making her work available to the community!
