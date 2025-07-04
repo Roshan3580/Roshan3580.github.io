@@ -1,7 +1,7 @@
 ---
 date: '2023-08-01'
 title: 'JournalApp'
-github: ''
+github: 'https://github.com/Roshan3580/JournalApp'
 external: ''
 tech:
   - Python

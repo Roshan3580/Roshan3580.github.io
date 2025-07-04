@@ -2,7 +2,7 @@
 date: '2023-09-01'
 title: 'TIPPERS Project'
 github: ''
-external: ''
+external: 'https://ics.uci.edu/~kobsa/papers/2016-PerCom-TIPPERS-Kobsa.pdf'
 tech:
   - PLpgSQL
   - JavaScript

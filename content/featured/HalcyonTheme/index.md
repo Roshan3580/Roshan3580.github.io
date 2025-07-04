@@ -1,15 +1,13 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+title: 'Sentinance'
+cover: './sentinance.png'
+github: 'https://github.com/Roshan3580/Sentinance'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Next.js
+  - React Query
+  - Tailwind CSS
+  - FastAPI (Python)
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+Sentinance is a full-stack stock market analysis and sentiment dashboard that combines live stock data with real-time sentiment insights from news and Reddit. It features interactive price charts, top gainers/losers, and a sentiment timeline to help traders and analysts track market trends and public sentiment in one place. Built with React, FastAPI, and external finance APIs, Sentinance delivers actionable market intelligence through a clean, responsive interface.

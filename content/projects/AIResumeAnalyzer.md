@@ -1,7 +1,7 @@
 ---
 date: '2023-06-01'
 title: 'AI Resume Analyzer'
-github: ''
+github: 'https://github.com/Roshan3580/AI_Resume_Analyzer'
 external: ''
 tech:
   - FastAPI
