@@ -1,9 +1,10 @@
 ---
+order: 2
 date: '2024-8-15'
 title: 'STEAM Instructor'
 company: 'Dreams For Schools'
 location: 'Santa Ana, CA'
-range: 'August - December 2024'
+range: 'August 2024 - December 2024'
 url: 'https://www.dreamsforschools.org/'
 ---
 

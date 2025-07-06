@@ -1,4 +1,5 @@
 ---
+order: 1
 date: '2024-12-21'
 title: 'Code Coach'
 company: 'theCoderSchool'
