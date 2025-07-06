@@ -19,7 +19,7 @@ const IconLogo = () => (
           y="50"
           dominantBaseline="middle"
           textAnchor="middle"
-          fontSize="38"
+          fontSize="45"
           fontFamily="inherit"
           fill="currentColor"
           fontWeight="bold">
