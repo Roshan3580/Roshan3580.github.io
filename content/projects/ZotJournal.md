@@ -1,5 +1,5 @@
 ---
-date: '2023-08-01'
+date: '2024-02-12'
 title: 'JournalApp'
 github: 'https://github.com/Roshan3580/JournalApp'
 external: ''
