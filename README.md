@@ -15,22 +15,22 @@
 
 ![demo](static/og.png)
 
-# 🌐 Roshan Raj — Personal Portfolio
+# Roshan Raj — Personal Portfolio
 
 Welcome to my personal website! I'm Roshan, a Computer Science student at UC Irvine passionate about building intelligent systems at the intersection of Natural Language Processing, AI, and full-stack development.
 
-## 🚀 About This Portfolio
+## About This Portfolio
 
 This site is a curated showcase of my work, research, and interests. Whether you're a recruiter, collaborator, or fellow technologist, I hope you'll find insight into the problems I love to solve and the technologies I enjoy working with.
 
-## 💡 What You'll Find
+## What You'll Find
 
 - **About Me** — A snapshot of my background, interests, and what drives me.
 - **Projects** — Real-world applications I've built, including AI-powered tools, research contributions, and full-stack systems.
 - **Resume** — Downloadable PDF of my latest resume.
 - **Contact** — The best way to get in touch.
 
-## 🧠 Focus Areas
+## Focus Areas
 
 - Natural Language Processing (NLP)
 - Search & Information Retrieval
@@ -38,7 +38,7 @@ This site is a curated showcase of my work, research, and interests. Whether you
 - Scalable Web Development
 - Developer Tools & AI UX
 
-## 🛠️ Technologies
+## Technologies
 
 - **Languages:** Python, C++, JavaScript
 - **Frameworks:** FastAPI, React, Next.js
@@ -46,7 +46,7 @@ This site is a curated showcase of my work, research, and interests. Whether you
 - **Infrastructure:** Docker, PostgreSQL, OAuth, CI/CD
 - **Tools:** Git, GitHub, VS Code, Linux
 
-## 🛠️ Connect
+## Connect
 
 If you're looking for someone who enjoys solving challenging problems, communicates clearly, and builds with care, I'd love to connect. Reach out via [LinkedIn](https://www.linkedin.com/in/roshan-raj-9a06a9226/) or [email](mailto:raj.roshan2005@gmail.com).
 
