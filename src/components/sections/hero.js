@@ -69,12 +69,11 @@ const Hero = () => {
       <p>
         I’m a Computer Science student at UC Irvine with a deep passion for natural language
         processing, search, and the ways machines understand the world. I’m drawn to problems at the
-        intersection of language and logic — where real-world messiness meets algorithmic structure
-        — and my work focuses on making complex ideas accessible, turning abstract data into
-        meaningful insight, and designing systems that are not just functional, but thoughtful. I
-        believe in building with clarity, purpose, and curiosity.
+        intersection of language and logic, and my work focuses on making complex ideas accessible,
+        turning abstract data into meaningful insight, and designing systems that are not just
+        functional, but thoughtful. I believe in building with clarity, purpose, and curiosity.
       </p>
-      <p>Welcome to my corner of the internet — where innovation meets intention.</p>
+      <p>Welcome to my corner of the internet.</p>
     </>
   );
 

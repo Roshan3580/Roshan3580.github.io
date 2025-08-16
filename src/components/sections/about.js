@@ -168,13 +168,6 @@ const About = () => {
               practice that constantly sharpens my ability to break down complexity into clarity.
             </p>
 
-            <p>
-              I love solving hard problems with elegant systems, collaborating with ambitious teams,
-              and building tools that make technology more human. Whether it’s crafting scalable
-              backend architectures or understanding how people interact with data, I’m here to keep
-              learning and keep shipping.
-            </p>
-
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
 
