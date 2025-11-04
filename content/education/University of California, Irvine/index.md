@@ -9,6 +9,8 @@ url: 'https://uci.edu'
 
 - GPA: 3.735, consistently on the **Dean’s Honor List** for academic excellence.
 - Selected as the only freshman Research Assistant in a graduate-level research lab, contributing to the TIPPERS Project under <a href="https://scholar.google.com/citations?user=MTZaRW4AAAAJ&hl=en">Dr. Sharad Mehrotra</a>. Engineered performance improvements and smart-space tools using PLpgSQL, JavaScript, Docker.
+- Undergraduate Student Researcher for Professor Marco Levorato and Professor Thomas Zimmermann: analyzing the AIDev dataset for the MSR 2026 Mining Challenge to study AI coding agents’ impact on software development using data mining, statistical analysis, and visualization tools.
+- Web Director at Design at UCI - Overseeing the Design-a-thon event website’s development and maintenance, updating key sections like applications, schedule, and FAQs, and collaborating with UI/UX, Creative, and Marketing teams to ensure accessibility and branding consistency.
 - Completed 2 internships during sophomore year:
   - **Dreams for Schools** – Taught CS fundamentals (Python, C++, HTML/CSS, Java) to K–12 students
   - **theCoderSchool** – Delivered personalized coding lessons and algorithmic problem-solving workshops
