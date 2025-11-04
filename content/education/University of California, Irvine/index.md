@@ -14,7 +14,7 @@ url: 'https://uci.edu'
 - Completed 2 internships during sophomore year:
   - **Dreams for Schools** – Taught CS fundamentals (Python, C++, HTML/CSS, Java) to K–12 students
   - **theCoderSchool** – Delivered personalized coding lessons and algorithmic problem-solving workshops
-- Active Technology Intern at the Venture Capital Society @ UCI, supporting tech diligence for startups.
+- Technology Intern at the Venture Capital Society @ UCI, supporting tech diligence for startups.
 - Core member of the <a href = "https://www.instagram.com/gdsc_uci/">**Google Developer Student Club (GDSC)**</a> – contributed to dev projects and hosted technical workshops.
 - Participated in multiple hackathons and coding competitions, focusing on real-time systems, APIs, and distributed architecture.
 - Relevant Coursework: Data Structures, Algorithms, Computer Organization, Artificial Intelligence, Machine Learning, Software Engineering, Distributed Systems, Automata Theory.
